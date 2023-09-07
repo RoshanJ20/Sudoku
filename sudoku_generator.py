@@ -17,6 +17,8 @@ board = [ [nums[pattern(r,c)] for c in cols] for r in rows ]
 
 for line in board: print(line)
 
+# Hello
+
 
 # [4, 7, 5, 8, 6, 2, 9, 1, 3]
 # [2, 6, 8, 9, 1, 3, 5, 7, 4]
