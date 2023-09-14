@@ -1,2 +1,2 @@
 # Sudoku
-A simple Sudoku game developed in HTML, CSS and Javascript.
+A simple Sudoku game developed with HTML, CSS and Javascript.
